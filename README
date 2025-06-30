@@ -2,5 +2,5 @@ If you want to run experiments, adjust the config in run_all_models.py and execu
 python run_all_models.py
 
 /util is the folder containing other codes: preprocessing, t-SNE visualization
-/log is the folder containing log documents
-/data is the folder containing raw data, final processed data, and metadata summary
+/log is the folder containing log documents (I didn't upload it)
+/data is the folder containing raw data, final processed data, and metadata summary (I didn't include the data file for privacy and space consideration)
